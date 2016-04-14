@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemaplantarum03linn/systemaplantarum03linn_0007.png"; bbox 0 0 2043 3562; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 253 1167 1595 1274">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 253 1167 1595 1274">
+     <span class='ocr_line' id='line_1_1' title="bbox 253 1167 1595 1274; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 253 1172 864 1270; x_wconf 85' lang='lat' dir='ltr'>CAROLI</span> <span class='ocrx_word' id='word_1_2' title='bbox 958 1167 1595 1274; x_wconf 87' lang='lat' dir='ltr'>LINNAEI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 1417 1726 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 1364 1726 1793">
+     <span class='ocr_line' id='line_1_2' title="bbox 198 1417 1476 1609; baseline -0.001 -61"><span class='ocrx_word' id='word_1_3' title='bbox 198 1606 199 1609; x_wconf 4' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 403 1419 480 1548; x_wconf 88' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_5' title='bbox 536 1417 650 1545; x_wconf 80' lang='lat' dir='ltr'>Y</span> <span class='ocrx_word' id='word_1_6' title='bbox 695 1417 770 1546; x_wconf 84' lang='lat' dir='ltr'><strong>s</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 812 1418 931 1561; x_wconf 82' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_8' title='bbox 998 1418 1107 1546; x_wconf 85' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1145 1419 1302 1544; x_wconf 86' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_10' title='bbox 1348 1418 1476 1547; x_wconf 87' lang='lat' dir='ltr'>A</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 184 1693 1726 1793; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 184 1693 1066 1793; x_wconf 82' lang='lat' dir='ltr'>PLANTAR1UM</span> <span class='ocrx_word' id='word_1_12' title='bbox 1146 1694 1726 1792; x_wconf 88' lang='lat' dir='ltr'>EUROPAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1255 1948 1729 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1255 1948 1729 1970">
+     <span class='ocr_line' id='line_1_4' title="bbox 1255 1948 1729 1970; baseline 0 1592"><span class='ocrx_word' id='word_1_13' title='bbox 1255 1948 1729 1970; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 659 1986 1263 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 659 1986 1263 2042">
+     <span class='ocr_line' id='line_1_5' title="bbox 659 1986 1263 2042; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 659 1986 1032 2042; x_wconf 83' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_15' title='bbox 1117 1990 1143 2038; x_wconf 90' lang='grc' dir='ltr'><strong>Ῑ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1237 1994 1263 2042; x_wconf 88' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
